@@ -21,13 +21,8 @@ Ensure you have the following installed on your system:
 
 ### Setup & Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/portfolio-website.git
-   cd portfolio-website
-
-   # Step 1: Clone the repository
-git clone https://github.com/yourusername/portfolio-website.git
+# Step 1: Clone the repository
+git clone (https://github.com/Prachi2589/Portfolio_task1.git)
 cd portfolio-website
 
 # Step 2: Install dependencies
