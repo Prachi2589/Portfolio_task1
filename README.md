@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 
 # Step 1: Clone the repository
 git clone (https://github.com/Prachi2589/Portfolio_task1.git)
-cd portfolio-website
+#cd portfolio-website
 
 # Step 2: Install dependencies
 npm install
